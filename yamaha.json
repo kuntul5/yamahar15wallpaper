@@ -1,0 +1,1081 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+	  "admob_banner": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_rewardid": "ca-app-pub-3940256099942544/522435491x", 
+      "interval": 1,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+	{
+      "title":"KUN",
+      "image":"",
+      "link":"https://play.google.com/store/apps/dev?id=7330959576723396199"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "KUN",
+      "image": "#"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "KUN",
+      "title":"1",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/001.webp",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "KUN",
+      "title": "2",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/002.webp",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "KUN",
+      "title":"3",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/003.webp",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "KUN",
+      "title":"4",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/004.webp",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "KUN",
+      "title":"5",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/005.webp",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "KUN",
+      "title":"6",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/006.webp",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "KUN",
+      "title":"7",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/007.webp",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "KUN",
+      "title":"8",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/008.webp",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "KUN",
+      "title":"9",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/009.webp",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "KUN",
+      "title":"10",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/010.webp",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "KUN",
+      "title": "11",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/011.webp",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "KUN",
+      "title":"12",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/012.webp",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "KUN",
+      "title":"13",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/013.webp",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "KUN",
+      "title":"14",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/014.webp",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "KUN",
+      "title":"15",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/015.webp",
+      "coin":1000
+    },
+    {
+      "id":16,
+      "name_category": "KUN",
+      "title":"16",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/016.webp",
+      "coin":1000
+    },
+    {
+      "id":17,
+      "name_category": "KUN",
+      "title":"17",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/017.webp",
+      "coin":1000
+    },
+    {
+      "id":18,
+      "name_category": "KUN",
+      "title":"18",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/018.webp",
+      "coin":1000
+    },
+    {
+      "id":19,
+      "name_category": "KUN",
+      "title":"19",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/019.webp",
+      "coin":1000
+    },
+    {
+      "id":20,
+      "name_category": "KUN",
+      "title":"20",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/020.webp",
+      "coin":1000
+    },
+    {
+      "id": 21,
+      "name_category": "KUN",
+      "title": "21",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/021.webp",
+      "coin":1000
+    },
+    {
+      "id":22,
+      "name_category": "KUN",
+      "title":"22",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/022.webp",
+      "coin":1000
+    },
+    {
+      "id":23,
+      "name_category": "KUN",
+      "title":"23",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/023.webp",
+      "coin":1000
+    },
+    {
+      "id":24,
+      "name_category": "KUN",
+      "title":"24",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/024.webp",
+      "coin":1000
+    },
+    {
+      "id":25,
+      "name_category": "KUN",
+      "title":"25",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/025.webp",
+      "coin":1000
+    },
+    {
+      "id":26,
+      "name_category": "KUN",
+      "title":"26",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/026.webp",
+      "coin":1000
+    },
+    {
+      "id":27,
+      "name_category": "KUN",
+      "title":"27",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/027.webp",
+      "coin":1000
+    },
+    {
+      "id":28,
+      "name_category": "KUN",
+      "title":"28",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/028.webp",
+      "coin":1000
+    },
+    {
+      "id":29,
+      "name_category": "KUN",
+      "title":"29",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/029.webp",
+      "coin":1000
+    },
+    {
+      "id":30,
+      "name_category": "KUN",
+      "title":"30",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/030.webp",
+      "coin":1000
+    },
+    {
+      "id": 31,
+      "name_category": "KUN",
+      "title": "31",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/031.webp",
+      "coin":1000
+    },
+    {
+      "id":32,
+      "name_category": "KUN",
+      "title":"32",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/032.webp",
+      "coin":1000
+    },
+    {
+      "id":33,
+      "name_category": "KUN",
+      "title":"33",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/033.webp",
+      "coin":1000
+    },
+    {
+      "id":34,
+      "name_category": "KUN",
+      "title":"34",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/034.webp",
+      "coin":1000
+    },
+    {
+      "id":35,
+      "name_category": "KUN",
+      "title":"35",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/035.webp",
+      "coin":1000
+    },
+    {
+      "id":36,
+      "name_category": "KUN",
+      "title":"36",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/036.webp",
+      "coin":1000
+    },
+    {
+      "id":37,
+      "name_category": "KUN",
+      "title":"37",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/037.webp",
+      "coin":1000
+    },
+    {
+      "id":38,
+      "name_category": "KUN",
+      "title":"38",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/038.webp",
+      "coin":1000
+    },
+    {
+      "id":39,
+      "name_category": "KUN",
+      "title":"39",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/039.webp",
+      "coin":1000
+    },
+    {
+      "id":40,
+      "name_category": "KUN",
+      "title":"40",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/040.webp",
+      "coin":1000
+    },
+    {
+      "id": 41,
+      "name_category": "KUN",
+      "title": "41",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/041.webp",
+      "coin":1000
+    },
+    {
+      "id":42,
+      "name_category": "KUN",
+      "title":"42",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/042.webp",
+      "coin":1000
+    },
+    {
+      "id":43,
+      "name_category": "KUN",
+      "title":"43",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/043.webp",
+      "coin":1000
+    },
+    {
+      "id":44,
+      "name_category": "KUN",
+      "title":"44",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/044.webp",
+      "coin":1000
+    },
+    {
+      "id":45,
+      "name_category": "KUN",
+      "title":"45",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/045.webp",
+      "coin":1000
+    },
+    {
+      "id":46,
+      "name_category": "KUN",
+      "title":"46",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/046.webp",
+      "coin":1000
+    },
+    {
+      "id":47,
+      "name_category": "KUN",
+      "title":"47",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/047.webp",
+      "coin":1000
+    },
+    {
+      "id":48,
+      "name_category": "KUN",
+      "title":"48",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/048.webp",
+      "coin":1000
+    },
+    {
+      "id":49,
+      "name_category": "KUN",
+      "title":"49",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/049.webp",
+      "coin":1000
+    },
+    {
+      "id":50,
+      "name_category": "KUN",
+      "title":"50",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/050.webp",
+      "coin":1000
+    },
+    {
+      "id": 51,
+      "name_category": "KUN",
+      "title": "51",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/051.webp",
+      "coin":1000
+    },
+    {
+      "id":52,
+      "name_category": "KUN",
+      "title":"52",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/052.webp",
+      "coin":1000
+    },
+    {
+      "id":53,
+      "name_category": "KUN",
+      "title":"53",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/053.webp",
+      "coin":1000
+    },
+    {
+      "id":54,
+      "name_category": "KUN",
+      "title":"54",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/054.webp",
+      "coin":1000
+    },
+    {
+      "id":55,
+      "name_category": "KUN",
+      "title":"55",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/055.webp",
+      "coin":1000
+    },
+    {
+      "id":56,
+      "name_category": "KUN",
+      "title":"56",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/056.webp",
+      "coin":1000
+    },
+    {
+      "id":57,
+      "name_category": "KUN",
+      "title":"57",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/057.webp",
+      "coin":1000
+    },
+    {
+      "id":58,
+      "name_category": "KUN",
+      "title":"58",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/058.webp",
+      "coin":1000
+    },
+    {
+      "id":59,
+      "name_category": "KUN",
+      "title":"59",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/059.webp",
+      "coin":1000
+    },
+    {
+      "id":60,
+      "name_category": "KUN",
+      "title":"60",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/060.webp",
+      "coin":1000
+    },
+    {
+      "id": 61,
+      "name_category": "KUN",
+      "title": "61",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/061.webp",
+      "coin":1000
+    },
+    {
+      "id":62,
+      "name_category": "KUN",
+      "title":"62",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/062.webp",
+      "coin":1000
+    },
+    {
+      "id":63,
+      "name_category": "KUN",
+      "title":"63",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/063.webp",
+      "coin":1000
+    },
+    {
+      "id":64,
+      "name_category": "KUN",
+      "title":"64",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/064.webp",
+      "coin":1000
+    },
+    {
+      "id":65,
+      "name_category": "KUN",
+      "title":"65",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/065.webp",
+      "coin":1000
+    },
+    {
+      "id":66,
+      "name_category": "KUN",
+      "title":"66",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/066.webp",
+      "coin":1000
+    },
+    {
+      "id":67,
+      "name_category": "KUN",
+      "title":"67",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/067.webp",
+      "coin":1000
+    },
+    {
+      "id":68,
+      "name_category": "KUN",
+      "title":"68",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/068.webp",
+      "coin":1000
+    },
+    {
+      "id":69,
+      "name_category": "KUN",
+      "title":"69",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/069.webp",
+      "coin":1000
+    },
+    {
+      "id":70,
+      "name_category": "KUN",
+      "title":"70",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/070.webp",
+      "coin":1000
+    },
+    {
+      "id": 71,
+      "name_category": "KUN",
+      "title": "71",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/071.webp",
+      "coin":1000
+    },
+    {
+      "id":72,
+      "name_category": "KUN",
+      "title":"72",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/072.webp",
+      "coin":1000
+    },
+    {
+      "id":73,
+      "name_category": "KUN",
+      "title":"73",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/073.webp",
+      "coin":1000
+    },
+    {
+      "id":74,
+      "name_category": "KUN",
+      "title":"74",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/074.webp",
+      "coin":1000
+    },
+    {
+      "id":75,
+      "name_category": "KUN",
+      "title":"75",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/075.webp",
+      "coin":1000
+    },
+    {
+      "id":76,
+      "name_category": "KUN",
+      "title":"76",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/076.webp",
+      "coin":1000
+    },
+    {
+      "id":77,
+      "name_category": "KUN",
+      "title":"77",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/077.webp",
+      "coin":1000
+    },
+    {
+      "id":78,
+      "name_category": "KUN",
+      "title":"78",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/078.webp",
+      "coin":1000
+    },
+    {
+      "id":79,
+      "name_category": "KUN",
+      "title":"79",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/079.webp",
+      "coin":1000
+    },
+    {
+      "id":80,
+      "name_category": "KUN",
+      "title":"80",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/080.webp",
+      "coin":1000
+    },
+    {
+      "id": 81,
+      "name_category": "KUN",
+      "title": "81",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/081.webp",
+      "coin":1000
+    },
+    {
+      "id":82,
+      "name_category": "KUN",
+      "title":"82",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/082.webp",
+      "coin":1000
+    },
+    {
+      "id":83,
+      "name_category": "KUN",
+      "title":"83",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/083.webp",
+      "coin":1000
+    },
+    {
+      "id":84,
+      "name_category": "KUN",
+      "title":"84",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/084.webp",
+      "coin":1000
+    },
+    {
+      "id":85,
+      "name_category": "KUN",
+      "title":"85",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/085.webp",
+      "coin":1000
+    },
+    {
+      "id":86,
+      "name_category": "KUN",
+      "title":"86",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/086.webp",
+      "coin":1000
+    },
+    {
+      "id":87,
+      "name_category": "KUN",
+      "title":"87",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/087.webp",
+      "coin":1000
+    },
+    {
+      "id":88,
+      "name_category": "KUN",
+      "title":"88",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/088.webp",
+      "coin":1000
+    },
+    {
+      "id":89,
+      "name_category": "KUN",
+      "title":"89",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/089.webp",
+      "coin":1000
+    },
+    {
+      "id":90,
+      "name_category": "KUN",
+      "title":"90",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/090.webp",
+      "coin":1000
+    },
+    {
+      "id": 91,
+      "name_category": "KUN",
+      "title": "91",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/091.webp",
+      "coin":1000
+    },
+    {
+      "id":92,
+      "name_category": "KUN",
+      "title":"92",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/092.webp",
+      "coin":1000
+    },
+    {
+      "id":93,
+      "name_category": "KUN",
+      "title":"93",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/093.webp",
+      "coin":1000
+    },
+    {
+      "id":94,
+      "name_category": "KUN",
+      "title":"94",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/094.webp",
+      "coin":1000
+    },
+    {
+      "id":95,
+      "name_category": "KUN",
+      "title":"95",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/095.webp",
+      "coin":1000
+    },
+    {
+      "id":96,
+      "name_category": "KUN",
+      "title":"96",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/096.webp",
+      "coin":1000
+    },
+    {
+      "id":97,
+      "name_category": "KUN",
+      "title":"97",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/097.webp",
+      "coin":1000
+    },
+    {
+      "id":98,
+      "name_category": "KUN",
+      "title":"98",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/098.webp",
+      "coin":1000
+    },
+    {
+      "id":99,
+      "name_category": "KUN",
+      "title":"99",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/099.webp",
+      "coin":1000
+    },
+    {
+      "id":100,
+      "name_category": "KUN",
+      "title":"100",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/100.webp",
+      "coin":1000
+    },
+    {
+      "id": 101,
+      "name_category": "KUN",
+      "title": "101",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/101.webp",
+      "coin":1000
+    },
+    {
+      "id":102,
+      "name_category": "KUN",
+      "title":"102",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/102.webp",
+      "coin":1000
+    },
+    {
+      "id":103,
+      "name_category": "KUN",
+      "title":"103",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/103.webp",
+      "coin":1000
+    },
+    {
+      "id":104,
+      "name_category": "KUN",
+      "title":"104",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/104.webp",
+      "coin":1000
+    },
+    {
+      "id":105,
+      "name_category": "KUN",
+      "title":"105",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/105.webp",
+      "coin":1000
+    },
+    {
+      "id":106,
+      "name_category": "KUN",
+      "title":"106",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/106.webp",
+      "coin":1000
+    },
+    {
+      "id":107,
+      "name_category": "KUN",
+      "title":"107",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/107.webp",
+      "coin":1000
+    },
+    {
+      "id":108,
+      "name_category": "KUN",
+      "title":"108",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/108.webp",
+      "coin":1000
+    },
+    {
+      "id":109,
+      "name_category": "KUN",
+      "title":"109",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/109.webp",
+      "coin":1000
+    },
+    {
+      "id":110,
+      "name_category": "KUN",
+      "title":"110",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/110.webp",
+      "coin":1000
+    },
+    {
+      "id": 111,
+      "name_category": "KUN",
+      "title": "111",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/111.webp",
+      "coin":1000
+    },
+    {
+      "id":112,
+      "name_category": "KUN",
+      "title":"112",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/112.webp",
+      "coin":1000
+    },
+    {
+      "id":113,
+      "name_category": "KUN",
+      "title":"113",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/113.webp",
+      "coin":1000
+    },
+    {
+      "id":114,
+      "name_category": "KUN",
+      "title":"114",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/114.webp",
+      "coin":1000
+    },
+    {
+      "id":115,
+      "name_category": "KUN",
+      "title":"115",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/115.webp",
+      "coin":1000
+    },
+    {
+      "id":116,
+      "name_category": "KUN",
+      "title":"116",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/116.webp",
+      "coin":1000
+    },
+    {
+      "id":117,
+      "name_category": "KUN",
+      "title":"117",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/117.webp",
+      "coin":1000
+    },
+    {
+      "id":118,
+      "name_category": "KUN",
+      "title":"118",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/118.webp",
+      "coin":1000
+    },
+    {
+      "id":119,
+      "name_category": "KUN",
+      "title":"119",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/119.webp",
+      "coin":1000
+    },
+    {
+      "id":120,
+      "name_category": "KUN",
+      "title":"120",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/120.webp",
+      "coin":1000
+    },
+    {
+      "id": 121,
+      "name_category": "KUN",
+      "title": "121",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/121.webp",
+      "coin":1000
+    },
+    {
+      "id":122,
+      "name_category": "KUN",
+      "title":"122",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/122.webp",
+      "coin":1000
+    },
+    {
+      "id":123,
+      "name_category": "KUN",
+      "title":"123",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/123.webp",
+      "coin":1000
+    },
+    {
+      "id":124,
+      "name_category": "KUN",
+      "title":"124",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/124.webp",
+      "coin":1000
+    },
+    {
+      "id":125,
+      "name_category": "KUN",
+      "title":"125",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/125.webp",
+      "coin":1000
+    },
+    {
+      "id":126,
+      "name_category": "KUN",
+      "title":"126",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/126.webp",
+      "coin":1000
+    },
+    {
+      "id":127,
+      "name_category": "KUN",
+      "title":"127",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/127.webp",
+      "coin":1000
+    },
+    {
+      "id":128,
+      "name_category": "KUN",
+      "title":"128",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/128.webp",
+      "coin":1000
+    },
+    {
+      "id":129,
+      "name_category": "KUN",
+      "title":"129",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/129.webp",
+      "coin":1000
+    },
+    {
+      "id":130,
+      "name_category": "KUN",
+      "title":"130",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/130.webp",
+      "coin":1000
+    },
+    {
+      "id": 131,
+      "name_category": "KUN",
+      "title": "131",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/131.webp",
+      "coin":1000
+    },
+    {
+      "id":132,
+      "name_category": "KUN",
+      "title":"132",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/132.webp",
+      "coin":1000
+    },
+    {
+      "id":133,
+      "name_category": "KUN",
+      "title":"133",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/133.webp",
+      "coin":1000
+    },
+    {
+      "id":134,
+      "name_category": "KUN",
+      "title":"134",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/134.webp",
+      "coin":1000
+    },
+    {
+      "id":135,
+      "name_category": "KUN",
+      "title":"135",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/135.webp",
+      "coin":1000
+    },
+    {
+      "id":136,
+      "name_category": "KUN",
+      "title":"136",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/136.webp",
+      "coin":1000
+    },
+    {
+      "id":137,
+      "name_category": "KUN",
+      "title":"137",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/137.webp",
+      "coin":1000
+    },
+    {
+      "id":138,
+      "name_category": "KUN",
+      "title":"138",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/138.webp",
+      "coin":1000
+    },
+    {
+      "id":139,
+      "name_category": "KUN",
+      "title":"139",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/139.webp",
+      "coin":1000
+    },
+    {
+      "id":140,
+      "name_category": "KUN",
+      "title":"140",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/140.webp",
+      "coin":1000
+    },
+    {
+      "id": 141,
+      "name_category": "KUN",
+      "title": "141",
+      "image": "https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/141.webp",
+      "coin":1000
+    },
+    {
+      "id":142,
+      "name_category": "KUN",
+      "title":"142",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/142.webp",
+      "coin":1000
+    },
+    {
+      "id":143,
+      "name_category": "KUN",
+      "title":"143",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/143.webp",
+      "coin":1000
+    },
+    {
+      "id":144,
+      "name_category": "KUN",
+      "title":"144",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/144.webp",
+      "coin":1000
+    },
+    {
+      "id":145,
+      "name_category": "KUN",
+      "title":"145",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/145.webp",
+      "coin":1000
+    },
+    {
+      "id":146,
+      "name_category": "KUN",
+      "title":"146",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/146.webp",
+      "coin":1000
+    },
+    {
+      "id":147,
+      "name_category": "KUN",
+      "title":"147",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/147.webp",
+      "coin":1000
+    },
+    {
+      "id":148,
+      "name_category": "KUN",
+      "title":"148",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/148.webp",
+      "coin":1000
+    },
+    {
+      "id":149,
+      "name_category": "KUN",
+      "title":"149",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/149.webp",
+      "coin":1000
+    },
+    {
+      "id":150,
+      "name_category": "KUN",
+      "title":"150",
+      "image":"https://cdn.statically.io/gh/kuntul5/yamahar15wallpaper/main/150.webp",
+      "coin":1000
+    }
+  ]
+}
